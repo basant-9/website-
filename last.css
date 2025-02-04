@@ -1,0 +1,31 @@
+body {
+    background-color: lightgray;
+}
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+form{
+    border: 10px double black;
+    background-color:lightskyblue;
+    padding: 30px;
+}
+label{
+    font-size: 20px;
+    font-weight: 900;
+}
+input{
+    width:25%;
+    padding: 10px;
+    margin: 15px;
+    font-style: italic;
+    font-size: 16px;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding: 10px 15px ;
+    cursor: pointer;
+}
